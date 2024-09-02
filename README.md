@@ -1,4 +1,4 @@
-# Project Name
+# Project Recipe App
 
 ## Overview
 This project is a full-stack web application built with a focus on modern technologies both in the backend and frontend.
